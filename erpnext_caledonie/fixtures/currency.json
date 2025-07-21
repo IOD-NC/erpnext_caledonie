@@ -1,0 +1,16 @@
+[
+ {
+  "currency_name": "XPF",
+  "docstatus": 0,
+  "doctype": "Currency",
+  "enabled": 1,
+  "fraction": "Franc",
+  "fraction_units": 1,
+  "modified": "2025-07-21 14:52:26.559631",
+  "name": "XPF",
+  "number_format": "#.###",
+  "smallest_currency_fraction_value": 1.0,
+  "symbol": null,
+  "symbol_on_right": 0
+ }
+]

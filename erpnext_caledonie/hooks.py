@@ -5,6 +5,13 @@ app_description = "Localisation for New Caledonia (XPF, TGC, holidays, etc.)"
 app_email = "damien@iod.nc"
 app_license = "gpl-3.0"
 
+
+fixtures = [
+    {"doctype": "Currency", "filters": [["name", "=", "XPF"]]},
+    # Add more fixtures as you build (see below)
+]
+
+
 # Apps
 # ------------------
 
